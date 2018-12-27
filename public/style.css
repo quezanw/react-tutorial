@@ -1,0 +1,9 @@
+#app {
+    width: 100%;
+}
+
+p {
+    width: 600px;
+    margin: 40px auto;
+    font-size: 28pt;
+}
